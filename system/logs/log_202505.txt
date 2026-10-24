@@ -1,0 +1,260 @@
+[Wed 2025-05-07 01:00:26 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `mathematics_written`
+[Wed 2025-05-07 01:00:26 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `mathematics_viva`
+[Wed 2025-05-07 01:00:29 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `english_written`
+[Wed 2025-05-07 01:00:29 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `english_viva`
+[Wed 2025-05-07 01:00:32 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `hindi_written`
+[Wed 2025-05-07 01:00:32 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `hindi_viva`
+[Wed 2025-05-07 01:00:35 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `science_written`
+[Wed 2025-05-07 01:00:35 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `science_viva`
+[Wed 2025-05-07 01:19:25 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_literature_written` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:19:25 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_literature_viva` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:22:04 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_grammar_written` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:22:04 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_grammar_viva` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:23:01 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `hindi_literature_written` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:23:01 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `hindi_literature_viva` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:23:25 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `hindi_grammar_written` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:23:25 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `hindi_grammar_viva` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:24:01 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `science_written` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:24:01 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `science_viva` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:24:37 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `social_science_written` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:24:37 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `social_science_viva` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:25:28 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `mathematics_written` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:25:28 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `mathematics_viva` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:28:59 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `evs_written` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:28:59 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `evs_viva` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:32:46 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `artificial_intelligence_written` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:32:46 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `artificial_intelligence_viva` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:35:48 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `general_knowledge_written` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:35:48 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `general_knowledge_viva` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:36:41 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `sanskrit_urdu_written` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:36:41 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `sanskrit_urdu_viva` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:38:38 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_lng_lit_184__written` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:38:38 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_lng_lit_184__viva` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:39:08 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `hindi_course_a_written` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:39:08 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `hindi_course_a_viva` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:39:52 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `mathematics_041__written` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:39:52 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `mathematics_041__viva` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:40:09 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `hindi_course_a_002__written` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:40:09 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `hindi_course_a_002__viva` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:40:38 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `science_086__written` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:40:38 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `science_086__viva` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:41:01 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `social_science_87__written` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:41:01 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `social_science_87__viva` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:41:39 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `artificial_intelligence_417__written` int DEFAULT '0'
+    
+[Wed 2025-05-07 01:41:39 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `artificial_intelligence_417__viva` int DEFAULT '0'
+    
+[Wed 2025-05-07 02:21:24 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `social_science_087__written` int DEFAULT '0'
+    
+[Wed 2025-05-07 02:21:24 PM] [client 2409:40e4:109e:b5cb:6981:54d1:297a:8f18] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `social_science_087__viva` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:02:05 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_rhymes` varchar(25) 
+    
+[Fri 2025-05-09 09:02:32 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_rhymes_written` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:02:32 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_rhymes_viva` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:02:52 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `hindi_rhymes_written` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:02:52 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `hindi_rhymes_viva` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:03:31 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `evs_oral_written` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:03:31 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `evs_oral_viva` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:03:48 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `evs_written_written` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:03:48 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `evs_written_viva` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:05:24 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_story_telling_conversation_oral_written` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:05:24 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_story_telling_conversation_oral_viva` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:05:40 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `hindi_story_telling_conversation_oral_written` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:05:40 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `hindi_story_telling_conversation_oral_viva` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:06:16 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_oral_written` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:06:16 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_oral_viva` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:06:33 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_written_written` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:06:33 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_written_viva` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:07:01 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `hindi_written_written` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:07:01 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `hindi_written_viva` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:07:15 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `hindi_oral_written` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:07:15 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `hindi_oral_viva` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:07:38 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `number_works_oral_written` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:07:38 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `number_works_oral_viva` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:08:03 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `number_works_written_written` int DEFAULT '0'
+    
+[Fri 2025-05-09 09:08:03 AM] [client 2409:40e4:1091:9a88:d495:69d1:1658:ce62] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `number_works_written_viva` int DEFAULT '0'
+    

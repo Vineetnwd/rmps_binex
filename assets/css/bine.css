@@ -1,0 +1,221 @@
+.error{
+    color:red;
+}
+
+input, select, optgroup, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    padding: 3px;
+    height:28px;
+}
+
+.imp{
+ font-size:18;
+ color:red;
+ font-weight:800;
+}
+/* Base Badge Styles */
+.badge {
+    padding: 0.25em 0.5em;
+    font-size: 0.85em;
+    border-radius: 0.25em;
+    display: inline-block;
+     font-weight:500;
+}
+
+/* Specific Badge Colors */
+.badge-success-light {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+
+.badge-danger-light {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}
+
+.badge-primary-light {
+    background-color: #cce5ff;
+    color: #004085;
+    border: 1px solid #b8daff;
+}
+
+.badge-warning-light {
+    background-color: #fff3cd;
+    color: #856404;
+    border: 1px solid #ffeeba;
+}
+
+.badge-info-light {
+    background-color: #d1ecf1;
+    color: #0c5460;
+    border: 1px solid #bee5eb;
+}
+
+/* Centering span as per PHP function's 'margin-auto' class */
+.margin-auto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    padding:0;
+    
+}
+
+.box-header{
+    background :#f3e7fc; 
+}
+
+/* New Menu Design */
+
+.sidebar-menu .treeview-menu > li > a {
+    color: #79818e;
+    border-left: solid 1px #ffbf36;
+    margin-left: 20px;
+}
+
+.treeview-menu>li>a {
+    padding: 10px 5px 10px 10px;
+    display: block;
+    font-size: 14px;
+}
+
+/* Style for the active menu link */
+.sidebar-menu .treeview-menu .active {
+    /*background-color:gold;*/
+    color: gold !important; 
+}
+
+.treeview-menu a.active::before {
+    content: '🟡'; /* Unicode character for a dot */
+    color: gold;
+    font-size:1em;
+    margin-left: -20px;
+    margin-right:5px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/* Optionally, change the parent menu's icon or appearance when it's active */
+.sidebar-menu .treeview.active > a {
+   /*  background-color: gold!important; Highlight the active parent */
+}
+
+
+.content-header h1 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.op-thead th {
+    background :#242a33!important;
+    color:#dee2e6!important;
+}
+
+/* Existing style for badge and label */
+.sidebar-menu>li .badge, .sidebar-menu>li .label {
+    margin-right: 5px;
+    width: auto;
+    border-radius: 10%;
+    line-height: 10px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 8px;
+    position: relative;
+    overflow: hidden; /* Ensures sparkles stay inside the badge */
+}
+
+/* Sparkle animation */
+@keyframes sparkle {
+    0% {
+        opacity: 0;
+        transform: scale(0.5) translate(-50%, -50%);
+    }
+    50% {
+        opacity: 1;
+        transform: scale(1) translate(-50%, -50%);
+    }
+    100% {
+        opacity: 0;
+        transform: scale(1.5) translate(-50%, -50%);
+    }
+}
+
+/* Sparkle dots */
+.sidebar-menu>li .badge::before, 
+.sidebar-menu>li .label::before {
+    content: '';
+    position: absolute;
+    width: 4px;
+    height: 4px;
+    background-color: gold;
+    border-radius: 50%;
+    opacity: 0;
+    animation: sparkle 1.5s infinite;
+}
+
+/* Random sparkle positions */
+.sidebar-menu>li .badge::before {
+    top: 10%;
+    left: 90%;
+    animation-delay: 0.2s;
+}
+
+.sidebar-menu>li .label::before {
+    top: 50%;
+    left: 70%;
+    animation-delay: 0.5s;
+}
+
+.sidebar-menu>li .badge::after, 
+.sidebar-menu>li .label::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 50%;
+    opacity: 0;
+    animation: sparkle 1.5s infinite;
+}
+
+/* Another sparkle */
+.sidebar-menu>li .badge::after {
+    top: 10%;
+    left: 90%;
+    animation-delay: 0.8s;
+}
+
+.sidebar-menu>li .label::after {
+    top: 10%;
+    left: 90%;
+    animation-delay: 1s;
+}
+
+.five-col-row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -0.5rem;
+}
+.five-col {
+  flex: 0 0 20%;
+  max-width: 20%;
+  padding: 0 0.5rem;
+}
+@media (max-width: 992px) {
+  .five-col {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+@media (max-width: 576px) {
+  .five-col {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}

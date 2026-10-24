@@ -1,0 +1,1 @@
+[Mon 2025-11-10 11:10:10 AM] [client 2409:40e4:10a3:b263:a883:14f3:b4da:1ab] by UNKNOWN http://sms.morg.in/api/sendhttp.php?authkey=&mobiles=7782973275&message=Dear+mohommad+jiyan%2C+%0AYour+Application+for+Admission+in+class+NUR+submitted+successfully+with+application+no+is+E25110178+%0ARegards+%0ARMPS+OFFAPP&sender=OFFAPP&route=4&country=91

@@ -1,0 +1,34 @@
+[Tue 2026-03-10 10:48:02 AM] [client 152.59.143.154] by UNKNOWN http://sms.morg.in/api/sendhttp.php?authkey=&mobiles=9523176921&message=Dear+ATUL+KUMAR%2C+%0AYour+Application+for+Admission+in+class+I+submitted+successfully+with+application+no+is+E26030010+%0ARegards+%0ARMPS+OFFAPP&sender=OFFAPP&route=4&country=91
+[Mon 2026-03-16 09:39:59 AM] [client 2409:40e4:109d:a62c:bc26:8c6:ed6f:43a8] by UNKNOWN http://sms.morg.in/api/sendhttp.php?authkey=&mobiles=7319794466&message=Dear+AAHIL+ALI%2C+%0AYour+Application+for+Admission+in+class+NUR+submitted+successfully+with+application+no+is+E26030191+%0ARegards+%0ARMPS+OFFAPP&sender=OFFAPP&route=4&country=91
+[Fri 2026-03-27 10:47:35 AM] [client 2409:40e4:109d:836f:ad88:e0d4:6712:4400] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `it_written` int DEFAULT '0'
+    
+[Fri 2026-03-27 10:47:35 AM] [client 2409:40e4:109d:836f:ad88:e0d4:6712:4400] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `it_viva` int DEFAULT '0'
+    
+[Fri 2026-03-27 10:48:45 AM] [client 2409:40e4:109d:836f:ad88:e0d4:6712:4400] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `gk_written` int DEFAULT '0'
+    
+[Fri 2026-03-27 10:48:45 AM] [client 2409:40e4:109d:836f:ad88:e0d4:6712:4400] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `gk_viva` int DEFAULT '0'
+    
+[Fri 2026-03-27 10:52:19 AM] [client 2409:40e4:109d:836f:ad88:e0d4:6712:4400] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `sans_urdu_written` int DEFAULT '0'
+    
+[Fri 2026-03-27 10:52:19 AM] [client 2409:40e4:109d:836f:ad88:e0d4:6712:4400] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `sans_urdu_viva` int DEFAULT '0'
+    
+[Fri 2026-03-27 01:37:28 PM] [client 2409:40e4:109d:836f:7421:41df:8776:129a] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `s_st_written` int DEFAULT '0'
+    
+[Fri 2026-03-27 01:37:28 PM] [client 2409:40e4:109d:836f:7421:41df:8776:129a] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `s_st_viva` int DEFAULT '0'
+    

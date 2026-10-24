@@ -1,0 +1,59 @@
+[Sat 2026-02-07 10:05:38 PM] [client 2409:40e4:1093:4fea:c5e4:abcd:e46b:ae94] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_lng_lit_written` int DEFAULT '0'
+    
+[Sat 2026-02-07 10:05:38 PM] [client 2409:40e4:1093:4fea:c5e4:abcd:e46b:ae94] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_lng_lit_viva` int DEFAULT '0'
+    
+[Sat 2026-02-07 10:08:23 PM] [client 2409:40e4:1093:4fea:c5e4:abcd:e46b:ae94] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `ai_417__written` int DEFAULT '0'
+    
+[Sat 2026-02-07 10:08:23 PM] [client 2409:40e4:1093:4fea:c5e4:abcd:e46b:ae94] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `ai_417__viva` int DEFAULT '0'
+    
+[Sat 2026-02-07 10:11:08 PM] [client 2409:40e4:1093:4fea:c5e4:abcd:e46b:ae94] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_l_l_written` int DEFAULT '0'
+    
+[Sat 2026-02-07 10:11:08 PM] [client 2409:40e4:1093:4fea:c5e4:abcd:e46b:ae94] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_l_l_viva` int DEFAULT '0'
+    
+[Tue 2026-02-10 10:07:17 AM] [client 2409:40e4:10bc:5738:6483:3fa9:c873:9d3f] by UNKNOWN http://sms.morg.in/api/sendhttp.php?authkey=&mobiles=9102797694&message=Dear+SUNIDHI+KUMARI%2C+%0AYour+Application+for+Admission+in+class+VI+submitted+successfully+with+application+no+is+E26020179+%0ARegards+%0ARMPS+OFFAPP&sender=OFFAPP&route=4&country=91
+[Tue 2026-02-10 11:19:13 AM] [client 2409:40e4:109d:e24b:ddbb:8333:d91d:3cc7] by UNKNOWN http://sms.morg.in/api/sendhttp.php?authkey=&mobiles=8271646695&message=Dear+RIYANSH+UPADHYA%2C+%0AYour+Application+for+Admission+in+class+NUR+submitted+successfully+with+application+no+is+E26020183+%0ARegards+%0ARMPS+OFFAPP&sender=OFFAPP&route=4&country=91
+[Mon 2026-02-16 12:26:13 PM] [client 2409:40e4:108f:e725:e514:5440:f7a5:4617] by UNKNOWN http://sms.morg.in/api/sendhttp.php?authkey=&mobiles=7482880021&message=Dear+MOHAMMAD+DANISH%2C+%0AYour+Application+for+Admission+in+class+III+submitted+successfully+with+application+no+is+E26020184+%0ARegards+%0ARMPS+OFFAPP&sender=OFFAPP&route=4&country=91
+[Mon 2026-02-16 12:27:58 PM] [client 2409:40e4:108f:e725:e514:5440:f7a5:4617] by UNKNOWN http://sms.morg.in/api/sendhttp.php?authkey=&mobiles=7482880021&message=Dear+TAUSIFUR+RAHMAN%2C+%0AYour+Application+for+Admission+in+class+II+submitted+successfully+with+application+no+is+E26020185+%0ARegards+%0ARMPS+OFFAPP&sender=OFFAPP&route=4&country=91
+[Mon 2026-02-16 01:32:32 PM] [client 2409:40e4:108f:e725:e514:5440:f7a5:4617] by UNKNOWN http://sms.morg.in/api/sendhttp.php?authkey=&mobiles=9939516147&message=Dear+ARPIT+RAJ%2C+%0AYour+Application+for+Admission+in+class+VI+submitted+successfully+with+application+no+is+E26020186+%0ARegards+%0ARMPS+OFFAPP&sender=OFFAPP&route=4&country=91
+[Tue 2026-02-17 12:42:31 PM] [client 2409:40e4:10a9:2a6d:d0f1:fc72:e7d0:98b3] by UNKNOWN http://sms.morg.in/api/sendhttp.php?authkey=&mobiles=8235752169&message=Dear+ALISHBA+JAINUDIN%2C+%0AYour+Application+for+Admission+in+class+IV+submitted+successfully+with+application+no+is+E26020187+%0ARegards+%0ARMPS+OFFAPP&sender=OFFAPP&route=4&country=91
+[Tue 2026-02-17 12:44:59 PM] [client 2409:40e4:10a9:2a6d:d0f1:fc72:e7d0:98b3] by UNKNOWN http://sms.morg.in/api/sendhttp.php?authkey=&mobiles=8227968537&message=Dear+YASIR+JISMUDIN%2C+%0AYour+Application+for+Admission+in+class+VI+submitted+successfully+with+application+no+is+E26020188+%0ARegards+%0ARMPS+OFFAPP&sender=OFFAPP&route=4&country=91
+[Tue 2026-02-17 01:23:22 PM] [client 2409:40e4:10a9:2a6d:d0f1:fc72:e7d0:98b3] by UNKNOWN http://sms.morg.in/api/sendhttp.php?authkey=&mobiles=9234708946&message=Dear+ROSHNI+KUMARI%2C+%0AYour+Application+for+Admission+in+class+IV+submitted+successfully+with+application+no+is+E26020189+%0ARegards+%0ARMPS+OFFAPP&sender=OFFAPP&route=4&country=91
+[Wed 2026-02-25 10:04:19 AM] [client 2409:40e4:10aa:12f4:145e:bd3:5f9b:a22e] by UNKNOWN http://sms.morg.in/api/sendhttp.php?authkey=&mobiles=8292545638&message=Dear+AAYUSHI+KUMARI%2C+%0AYour+Application+for+Admission+in+class+V+submitted+successfully+with+application+no+is+E26020008+%0ARegards+%0ARMPS+OFFAPP&sender=OFFAPP&route=4&country=91
+[Wed 2026-02-25 10:05:42 AM] [client 2409:40e4:10aa:12f4:145e:bd3:5f9b:a22e] by UNKNOWN http://sms.morg.in/api/sendhttp.php?authkey=&mobiles=8292545638&message=Dear+PRATYUSH+%2C+%0AYour+Application+for+Admission+in+class+I+submitted+successfully+with+application+no+is+E26020009+%0ARegards+%0ARMPS+OFFAPP&sender=OFFAPP&route=4&country=91
+[Thu 2026-02-26 10:18:14 AM] [client 152.59.142.183] by UNKNOWN http://sms.morg.in/api/sendhttp.php?authkey=&mobiles=9939075657&message=Dear+ALEKSI+ARYAN%2C+%0AYour+Application+for+Admission+in+class+III+submitted+successfully+with+application+no+is+E26020190+%0ARegards+%0ARMPS+OFFAPP&sender=OFFAPP&route=4&country=91
+[Thu 2026-02-26 12:31:57 PM] [client 2409:40e4:1092:98c7:f9d1:d62b:cb9f:3398] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_l_l_184__written` int DEFAULT '0'
+    
+[Thu 2026-02-26 12:31:58 PM] [client 2409:40e4:1092:98c7:f9d1:d62b:cb9f:3398] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_l_l_184__viva` int DEFAULT '0'
+    
+[Thu 2026-02-26 12:34:04 PM] [client 2409:40e4:1092:98c7:f9d1:d62b:cb9f:3398] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `hindi_002__written` int DEFAULT '0'
+    
+[Thu 2026-02-26 12:34:04 PM] [client 2409:40e4:1092:98c7:f9d1:d62b:cb9f:3398] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `hindi_002__viva` int DEFAULT '0'
+    
+[Thu 2026-02-26 01:10:21 PM] [client 2409:40e4:1092:98c7:f9d1:d62b:cb9f:3398] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `s_st_087__written` int DEFAULT '0'
+    
+[Thu 2026-02-26 01:10:21 PM] [client 2409:40e4:1092:98c7:f9d1:d62b:cb9f:3398] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `s_st_087__viva` int DEFAULT '0'
+    

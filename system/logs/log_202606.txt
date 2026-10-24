@@ -1,0 +1,58 @@
+[Mon 2026-06-15 11:50:54 AM] [client 2409:40e4:10b8:ce1:8414:26e8:291a:cc6f] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `game_written` int DEFAULT '0'
+    
+[Mon 2026-06-15 11:50:54 AM] [client 2409:40e4:10b8:ce1:8414:26e8:291a:cc6f] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `game_viva` int DEFAULT '0'
+    
+[Mon 2026-06-15 11:51:16 AM] [client 2409:40e4:10b8:ce1:8414:26e8:291a:cc6f] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `lsrw_written` int DEFAULT '0'
+    
+[Mon 2026-06-15 11:51:16 AM] [client 2409:40e4:10b8:ce1:8414:26e8:291a:cc6f] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `lsrw_viva` int DEFAULT '0'
+    
+[Mon 2026-06-15 11:51:36 AM] [client 2409:40e4:10b8:ce1:8414:26e8:291a:cc6f] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `art_craft_written` int DEFAULT '0'
+    
+[Mon 2026-06-15 11:51:36 AM] [client 2409:40e4:10b8:ce1:8414:26e8:291a:cc6f] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `art_craft_viva` int DEFAULT '0'
+    
+[Mon 2026-06-15 11:54:53 AM] [client 2409:40e4:10b8:ce1:8414:26e8:291a:cc6f] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `activity_written` int DEFAULT '0'
+    
+[Mon 2026-06-15 11:54:53 AM] [client 2409:40e4:10b8:ce1:8414:26e8:291a:cc6f] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `activity_viva` int DEFAULT '0'
+    
+[Mon 2026-06-15 11:56:13 AM] [client 2409:40e4:10b8:ce1:8414:26e8:291a:cc6f] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `snk_written` int DEFAULT '0'
+    
+[Mon 2026-06-15 11:56:13 AM] [client 2409:40e4:10b8:ce1:8414:26e8:291a:cc6f] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `snk_viva` int DEFAULT '0'
+    
+[Mon 2026-06-22 11:22:03 AM] [client 2409:40e4:10b6:f46d:c468:fbec:f454:7170] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_literature__written` int DEFAULT '0'
+    
+[Mon 2026-06-22 11:22:04 AM] [client 2409:40e4:10b6:f46d:c468:fbec:f454:7170] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_literature__viva` int DEFAULT '0'
+    
+[Mon 2026-06-22 11:22:47 AM] [client 2409:40e4:10b6:f46d:c468:fbec:f454:7170] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_grammar__written` int DEFAULT '0'
+    
+[Mon 2026-06-22 11:22:47 AM] [client 2409:40e4:10b6:f46d:c468:fbec:f454:7170] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_grammar__viva` int DEFAULT '0'
+    
+[Sat 2026-06-27 09:17:56 AM] [client 2409:40e4:1082:d060:993b:29f6:8eb5:cd4a] by UNKNOWN http://sms.morg.in/api/sendhttp.php?authkey=&mobiles=7041185622&message=Dear+ROHAN+KUMAR%2C+%0AYour+Application+for+Admission+in+class+UKG+submitted+successfully+with+application+no+is+E26060181+%0ARegards+%0ARMPS+OFFAPP&sender=OFFAPP&route=4&country=91
+[Sat 2026-06-27 10:38:20 AM] [client 2409:40e4:1086:285c:7964:eb72:1af4:232e] by UNKNOWN http://sms.morg.in/api/sendhttp.php?authkey=&mobiles=9631127017&message=Dear+ayansh+singh%2C+%0AYour+Application+for+Admission+in+class+NUR+submitted+successfully+with+application+no+is+E26060011+%0ARegards+%0ARMPS+OFFAPP&sender=OFFAPP&route=4&country=91

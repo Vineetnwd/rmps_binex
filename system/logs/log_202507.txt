@@ -1,0 +1,40 @@
+[Wed 2025-07-23 08:36:06 AM] [client 2409:40e4:1086:9d91:8c86:a9b4:6f12:8a71] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `sanskrit_urdu_literature_written` int DEFAULT '0'
+    
+[Wed 2025-07-23 08:36:06 AM] [client 2409:40e4:1086:9d91:8c86:a9b4:6f12:8a71] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `sanskrit_urdu_literature_viva` int DEFAULT '0'
+    
+[Wed 2025-07-23 08:36:48 AM] [client 2409:40e4:1086:9d91:8c86:a9b4:6f12:8a71] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `sanskrit_urdu_grammar` varchar(25) 
+    
+[Wed 2025-07-23 08:43:00 AM] [client 2409:40e4:1086:9d91:8c86:a9b4:6f12:8a71] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `sanskrit_urdu_grammar_written` int DEFAULT '0'
+    
+[Wed 2025-07-23 08:43:00 AM] [client 2409:40e4:1086:9d91:8c86:a9b4:6f12:8a71] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `sanskrit_urdu_grammar_viva` int DEFAULT '0'
+    
+[Wed 2025-07-23 08:43:24 AM] [client 2409:40e4:1086:9d91:8c86:a9b4:6f12:8a71] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `urdu_written` int DEFAULT '0'
+    
+[Wed 2025-07-23 08:43:24 AM] [client 2409:40e4:1086:9d91:8c86:a9b4:6f12:8a71] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `urdu_viva` int DEFAULT '0'
+    
+[Wed 2025-07-23 12:07:48 PM] [client 2409:40e4:10ac:4b10:94b:99b6:b562:9bfc] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `information_technology_written` int DEFAULT '0'
+    
+[Wed 2025-07-23 12:07:48 PM] [client 2409:40e4:10ac:4b10:94b:99b6:b562:9bfc] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `information_technology_viva` int DEFAULT '0'
+    
+[Sat 2025-07-26 08:06:30 PM] [client 2409:40e4:1090:1ccb:b138:c238:5512:b1f7] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_grammar` varchar(25) 
+    

@@ -1,0 +1,171 @@
+[Wed 2026-05-06 01:28:22 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `english_literature_written`
+[Wed 2026-05-06 01:28:22 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `english_literature_viva`
+[Wed 2026-05-06 01:28:24 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `english_grammar_written`
+[Wed 2026-05-06 01:28:24 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `english_grammar_viva`
+[Wed 2026-05-06 01:28:26 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `hindi_literature_written`
+[Wed 2026-05-06 01:28:26 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `hindi_literature_viva`
+[Wed 2026-05-06 01:28:29 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `science_written`
+[Wed 2026-05-06 01:28:29 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `science_viva`
+[Wed 2026-05-06 01:28:33 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `hindi_grammar_written`
+[Wed 2026-05-06 01:28:33 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `hindi_grammar_viva`
+[Wed 2026-05-06 01:28:35 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `social_science_written`
+[Wed 2026-05-06 01:28:35 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `social_science_viva`
+[Wed 2026-05-06 01:28:37 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `mathematics_written`
+[Wed 2026-05-06 01:28:37 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `mathematics_viva`
+[Wed 2026-05-06 01:28:40 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `evs_written`
+[Wed 2026-05-06 01:28:40 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `evs_viva`
+[Wed 2026-05-06 01:28:42 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `information_technology_written`
+[Wed 2026-05-06 01:28:42 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `information_technology_viva`
+[Wed 2026-05-06 01:28:45 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `general_knowledge_written`
+[Wed 2026-05-06 01:28:45 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `general_knowledge_viva`
+[Wed 2026-05-06 01:28:50 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `sanskrit_urdu_written`
+[Wed 2026-05-06 01:28:50 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `sanskrit_urdu_viva`
+[Wed 2026-05-06 01:28:52 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `english_lng_lit_184__written`
+[Wed 2026-05-06 01:28:52 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `english_lng_lit_184__viva`
+[Wed 2026-05-06 01:28:53 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `mathematics_041__written`
+[Wed 2026-05-06 01:28:53 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `mathematics_041__viva`
+[Wed 2026-05-06 01:28:55 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `hindi_course_a_002__written`
+[Wed 2026-05-06 01:28:55 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `hindi_course_a_002__viva`
+[Wed 2026-05-06 01:29:00 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `social_science_087__written`
+[Wed 2026-05-06 01:29:00 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `social_science_087__viva`
+[Wed 2026-05-06 01:29:02 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `science_086__written`
+[Wed 2026-05-06 01:29:02 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `science_086__viva`
+[Wed 2026-05-06 01:29:04 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `sanskrit_urdu_literature_written`
+[Wed 2026-05-06 01:29:04 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `sanskrit_urdu_literature_viva`
+[Wed 2026-05-06 01:29:05 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `artificial_intelligence_417__written`
+[Wed 2026-05-06 01:29:05 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `artificial_intelligence_417__viva`
+[Wed 2026-05-06 01:29:07 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `english_written`
+[Wed 2026-05-06 01:29:07 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `english_viva`
+[Wed 2026-05-06 01:29:08 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `sanskrit_urdu_grammar_written`
+[Wed 2026-05-06 01:29:08 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `sanskrit_urdu_grammar_viva`
+[Wed 2026-05-06 01:29:11 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `hindi_written`
+[Wed 2026-05-06 01:29:11 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `hindi_viva`
+[Wed 2026-05-06 01:29:13 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `numbers_written`
+[Wed 2026-05-06 01:29:13 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `numbers_viva`
+[Wed 2026-05-06 01:29:14 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `evs_gk_written`
+[Wed 2026-05-06 01:29:14 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `evs_gk_viva`
+[Wed 2026-05-06 01:29:16 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `english_ws_written`
+[Wed 2026-05-06 01:29:16 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `english_ws_viva`
+[Wed 2026-05-06 01:29:17 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN ``
+[Wed 2026-05-06 01:29:19 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `hindi_ws_written`
+[Wed 2026-05-06 01:29:19 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `hindi_ws_viva`
+[Wed 2026-05-06 01:29:20 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `numbers_ws_written`
+[Wed 2026-05-06 01:29:20 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `numbers_ws_viva`
+[Wed 2026-05-06 01:29:22 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `evs_gk_ws_written`
+[Wed 2026-05-06 01:29:22 PM] [client 152.59.155.232] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `evs_gk_ws_viva`
+[Wed 2026-05-06 01:30:34 PM] [client 152.59.155.232] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `ai_ws` varchar(25) 
+    
+[Fri 2026-05-15 04:07:11 PM] [client 2401:4900:88a3:2138:40b:dac:dcef:b3ac] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `mathematics_written` int DEFAULT '0'
+    
+[Fri 2026-05-15 04:07:11 PM] [client 2401:4900:88a3:2138:40b:dac:dcef:b3ac] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `mathematics_viva` int DEFAULT '0'
+    
+[Mon 2026-05-18 12:16:15 PM] [client 152.56.134.205] by UNKNOWN http://sms.morg.in/api/sendhttp.php?authkey=&mobiles=7257945129&message=Dear+AAYUSHI+KUMARI%2C+%0AYour+Application+for+Admission+in+class+IV+submitted+successfully+with+application+no+is+E26050017+%0ARegards+%0ARMPS+OFFAPP&sender=OFFAPP&route=4&country=91
+[Mon 2026-05-18 12:16:38 PM] [client 152.56.134.205] by UNKNOWN http://sms.morg.in/api/sendhttp.php?authkey=&mobiles=7257945129&message=Dear+AAYUSHI+KUMARI%2C+%0AYour+Application+for+Admission+in+class+IV+submitted+successfully+with+application+no+is+E26050017+%0ARegards+%0ARMPS+OFFAPP&sender=OFFAPP&route=4&country=91
+[Mon 2026-05-18 02:24:57 PM] [client 152.58.158.78] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `science_written` int DEFAULT '0'
+    
+[Mon 2026-05-18 02:24:57 PM] [client 152.58.158.78] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `science_viva` int DEFAULT '0'
+    
+[Fri 2026-05-22 11:21:55 AM] [client 152.56.134.106] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `mathematics_written`
+[Fri 2026-05-22 11:21:55 AM] [client 152.56.134.106] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `mathematics_viva`
+[Fri 2026-05-22 11:21:59 AM] [client 152.56.134.106] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `science_written`
+[Fri 2026-05-22 11:21:59 AM] [client 152.56.134.106] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `science_viva`
+[Fri 2026-05-22 11:35:51 AM] [client 2401:4900:88a1:68a9:2106:e512:5c5:79ec] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `mathematics_written` int DEFAULT '0'
+    
+[Fri 2026-05-22 11:35:51 AM] [client 2401:4900:88a1:68a9:2106:e512:5c5:79ec] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `mathematics_viva` int DEFAULT '0'
+    
+[Fri 2026-05-22 11:36:41 AM] [client 152.56.134.106] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `mathematics_written`
+[Fri 2026-05-22 11:36:41 AM] [client 152.56.134.106] by UNKNOWN ALTER TABLE `exam` DROP COLUMN `mathematics_viva`
+[Sat 2026-05-23 11:18:23 AM] [client 152.56.134.15] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_written` int DEFAULT '0'
+    
+[Sat 2026-05-23 11:18:23 AM] [client 152.56.134.15] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `english_viva` int DEFAULT '0'
+    
+[Mon 2026-05-25 10:07:37 AM] [client 2401:4900:b000:1cab:5074:63eb:9ff8:82a6] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `test_subject_123` varchar(25) 
+    
+[Mon 2026-05-25 10:07:54 AM] [client 2401:4900:b000:1cab:5074:63eb:9ff8:82a6] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `hindi_written` int DEFAULT '0'
+    
+[Mon 2026-05-25 10:07:54 AM] [client 2401:4900:b000:1cab:5074:63eb:9ff8:82a6] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `hindi_viva` int DEFAULT '0'
+    
+[Mon 2026-05-25 10:08:08 AM] [client 2401:4900:b000:1cab:5074:63eb:9ff8:82a6] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `test_subject_999_written` int DEFAULT '0'
+    
+[Mon 2026-05-25 10:08:08 AM] [client 2401:4900:b000:1cab:5074:63eb:9ff8:82a6] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `test_subject_999_viva` int DEFAULT '0'
+    
+[Mon 2026-05-25 10:08:48 AM] [client 2401:4900:b000:1cab:5074:63eb:9ff8:82a6] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `mathematics_written` int DEFAULT '0'
+    
+[Mon 2026-05-25 10:08:48 AM] [client 2401:4900:b000:1cab:5074:63eb:9ff8:82a6] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `mathematics_viva` int DEFAULT '0'
+    
+[Mon 2026-05-25 10:08:48 AM] [client 2401:4900:b000:1cab:5074:63eb:9ff8:82a6] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `environmental_studies_evs__written` int DEFAULT '0'
+    
+[Mon 2026-05-25 10:08:48 AM] [client 2401:4900:b000:1cab:5074:63eb:9ff8:82a6] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `environmental_studies_evs__viva` int DEFAULT '0'
+    
+[Mon 2026-05-25 10:08:48 AM] [client 2401:4900:b000:1cab:5074:63eb:9ff8:82a6] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `science_written` int DEFAULT '0'
+    
+[Mon 2026-05-25 10:08:48 AM] [client 2401:4900:b000:1cab:5074:63eb:9ff8:82a6] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `science_viva` int DEFAULT '0'
+    
+[Mon 2026-05-25 10:08:48 AM] [client 2401:4900:b000:1cab:5074:63eb:9ff8:82a6] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `social_science_written` int DEFAULT '0'
+    
+[Mon 2026-05-25 10:08:49 AM] [client 2401:4900:b000:1cab:5074:63eb:9ff8:82a6] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `social_science_viva` int DEFAULT '0'
+    
+[Mon 2026-05-25 10:08:49 AM] [client 2401:4900:b000:1cab:5074:63eb:9ff8:82a6] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `general_knowledge` varchar(25) 
+    
+[Mon 2026-05-25 12:34:57 PM] [client 2401:4900:b000:1cab:5074:63eb:9ff8:82a6] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `sanskrit_urdu_written` int DEFAULT '0'
+    
+[Mon 2026-05-25 12:34:57 PM] [client 2401:4900:b000:1cab:5074:63eb:9ff8:82a6] by UNKNOWN 
+        ALTER TABLE `exam` 
+        ADD COLUMN `sanskrit_urdu_viva` int DEFAULT '0'
+    
+[Thu 2026-05-28 01:39:38 PM] [client 2401:4900:88a1:1278:340f:9e06:ca43:cea] by offerplant 
+        ALTER TABLE `pt_max_marks` 
+        ADD COLUMN `created_by` int DEFAULT 'NULL'
+    
+[Thu 2026-05-28 01:39:42 PM] [client 2401:4900:88a1:1278:340f:9e06:ca43:cea] by offerplant 
+        ALTER TABLE `pt_max_marks` 
+        ADD COLUMN `created_by` int DEFAULT 'NULL'
+    
